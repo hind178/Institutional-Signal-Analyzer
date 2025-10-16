@@ -1,0 +1,5 @@
+{
+  "name": "Institutional Signal Analyzer",
+  "description": "A web-based tool that analyzes financial market data from a CSV file to compute an 'Institutional Signal', helping traders identify potential buy or sell opportunities based on volume, price action, session timing, and liquidity events.",
+  "requestFramePermissions": []
+}
